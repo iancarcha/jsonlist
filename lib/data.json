@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "photo": "https://www.realmadrid.com/img/vertical_380px/cristiano_550x650_20180917025046.jpg",
+      "user": "User 1",
+      "message": "Soy usuario 1"
+    },
+    {
+      "photo": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/MESSI.jpg",
+      "user": "User 2",
+      "message": "Soy usuario 2"
+    }
+
+  ]
+}
